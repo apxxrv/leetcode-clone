@@ -1,4 +1,4 @@
-## Leetcode clone
+## LEETCODE CLONE
 
 Build an end to end leetcode clone
 
